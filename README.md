@@ -1,2 +1,4 @@
 # BDS_Mirror
 使用此软件简单部署一个自动镜像站
+
+它将从mcvl处抓取BDS清单，并根据该清单下载所有的BDSzip到根目录下的BDS_Mirror之中
